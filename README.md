@@ -4,3 +4,6 @@
 
 - local database kullanarak seçilen koltuk sayıları kaydedildi.
 
+- ekran gif
+
+![](ekran.gif)
